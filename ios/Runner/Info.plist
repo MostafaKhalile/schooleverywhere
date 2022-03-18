@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>$(APP_DISPLAY_NAME)</string>
+	<string>Tanta Royal School</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -71,7 +71,7 @@
 	<true/>
 	<key>BGTaskSchedulerPermittedIdentifiers</key>
 	<array>
-		<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	    <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	</array>
 </dict>
 </plist>

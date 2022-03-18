@@ -3,4 +3,4 @@
 // bundle_suffix used in the bundle id of the app
 bundle_suffix=.golden
 // the name displayed below the app icon on the home screen
-APP_DISPLAY_NAME=Golden School
+app_display_name=Golden School

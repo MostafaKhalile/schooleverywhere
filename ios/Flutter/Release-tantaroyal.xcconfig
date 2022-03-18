@@ -3,4 +3,4 @@
 // bundle_suffix used in the bundle id of the app
 bundle_suffix=.tantaroyal
 // the name displayed below the app icon on the home screen
-APP_DISPLAY_NAME=Tanta Royal School
+app_display_name=Tanta Royal School
